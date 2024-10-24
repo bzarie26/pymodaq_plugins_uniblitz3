@@ -1,4 +1,4 @@
-pymodaq_plugins_univlitz3
+pymodaq_plugins_uniblitz3
 ########################
 
 .. the following must be adapted to your developed package, links to pypi, github  description...
