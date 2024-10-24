@@ -26,7 +26,7 @@ Test of pymodaq plugin with two VCM-D1 shutter in serie
 Authors
 =======
 
-* First Author  (baptiste.zarie@universite-paris-saclay.fr)
+* Baptiste Zarié  (baptiste.zarie@universite-paris-saclay.fr)
 
 .. if needed use this field
 
