@@ -5,10 +5,10 @@ SHORT_PLUGIN_NAME = 'uniblitz3'  #to be modified, for instance daqmx then rename
 # (pymodaq_plugins_template become pymodaq_plugins_daqmx for instance)
 
 package-url = 'https://github.com/PyMoDAQ/pymodaq_plugins_uniblitz3' #to modify
-description = 'just a test'
+description = 'just a test for 2 shutter in serie'
 
-author = 'Author Name'
-author-email = 'Author email'
+author = 'Baptiste Zarié'
+author-email = 'baptiste.zarie@universite-paris-saclay.fr'
 license = 'MIT'
 
 [plugin-install]
