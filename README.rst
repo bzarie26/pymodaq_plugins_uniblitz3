@@ -49,7 +49,7 @@ Below is the list of instruments included in this plugin
 Actuators
 +++++++++
 
-* VLMtest2
+* VCM-D1
 
 
 
