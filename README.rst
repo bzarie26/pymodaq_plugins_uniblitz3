@@ -20,7 +20,7 @@ pymodaq_plugins_uniblitz3
 
 
 
-Test of pymodaq plugin with two VCM-D1 shutter in serie
+Test of pymodaq plugin with two VCM-D1 shutter in serie when controller's adress are 0 and 1.
 
 
 Authors
@@ -64,6 +64,6 @@ Extensions
 Installation instructions
 =========================
 
-* PyMoDAQ’s version.
+* PyMoDAQ’s version : 4.4
 * Operating system’s version.
 * What manufacturer’s drivers should be installed to make this plugin run?
